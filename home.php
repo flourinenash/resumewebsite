@@ -6,12 +6,20 @@
 -->
 <html>
 	<head>
-		<title>Brandon Mikelaitis</title>
+		<title>Dheeraj Gupta</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!-- Global Site Tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107260372-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments)};
+		  gtag('js', new Date());
+		  gtag('config', 'UA-107260372-1');
+		</script>
 	</head>
 	<body>
 
@@ -19,7 +27,7 @@
 			<section id="header">
 				<header>
 					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
-					<h1 id="logo"><a href="#">Brandon Mikelaitis</a></h1>
+					<h1 id="logo"><a href="#">Dheeraj Gupta</a></h1>
 					<p>Whatever you are,<br />
 					be a good one. <br />
 					- Abraham Lincoln</p>
@@ -272,6 +280,7 @@
 										<li class="fa-file-pdf-o">Adobe Creative Cloud Apps</li>
 										<li class="fa-html5">HTML5, CSS, & Ruby on Rails</li>
 										<li class="fa-cloud">SSH & FTP Clients</li>
+										<li class="fa-android">SSH & FTP Clients</li>
 									</ul>
 								</div>
 							</section>
