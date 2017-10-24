@@ -138,7 +138,7 @@
 						<!-- threepoint1 -->
 							<section id="threepoint1">
 								<div class="container">
-									<h3>My Experience</h3>
+									<h3>Professioal Experience</h3>
 									<p>My experience ranges from academic research to technical internships where I was part of a cross-functional team that was responsible for improving customer experience.  
 									I’m currently entering the consulting industry upon graduation of my master degree.  
 									My drive for continual learning is never-ending and I'm always looking my next adventure. </p>
@@ -205,7 +205,7 @@
 <!-- threepoint2 -->
 							<section id="threepoint2">
 								<div class="container">
-									<h3>My Experience</h3>
+									<h3>Academic Experience</h3>
 									<p>My experience ranges from academic research to technical internships where I was part of a cross-functional team that was responsible for improving customer experience.  
 									I’m currently entering the consulting industry upon graduation of my master degree.  
 									My drive for continual learning is never-ending and I'm always looking my next adventure. </p>
