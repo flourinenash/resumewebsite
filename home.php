@@ -96,6 +96,7 @@
                             <a href="#" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
                             <div class="inner">
                                 <h4 align="center">Master of Science in Management Information Systems</h4>
+                                <h5 align="center">The Eller College of Management at The University of Arizona</h5>
                                 <h5 align="center">GPA: 3.85 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated December 2017</h5>
                             </div>
                         </article>
@@ -103,21 +104,21 @@
 
                             <div class="inner">
                                 <h4 align="center">Bachelor of Technology in Computer Science and Engineering</h4>
+                                <h5 align="center">National Institute of Technology - Hamirpur</h5>
                                 <h5 align="center">GPA: 3.88 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2012</h5>
                             </div>
-                            <a href="#" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
+                            <a href="#" class="image"><img src="images/nith.png" alt="The University of Arizona" /></a>
                         </article>
                         <article>
                             <a href="#" class="image cert"><img src="images/Certificate.png" alt="Certifications" /></a>
                             <div class="inner">
                                 <h4 align="center">Certifications</h4>
                                 <p align="center">
-                                    Information Systems Security - <span class="boldtext" style="font-weight: bold;"><a href="https://iasec.eller.arizona.edu/programs/cnss-certificate"> NSTISSI 4011 </a></span> </br>
-                                    Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?zFoKoMXSVGhMPq9yAKVD4w=="> CNSS 4012</a></span> </br>
-                                    System Administrator - <span class="boldtext" style="font-weight: bold;"> <a href="https://www.cnss.gov/CNSS/openDoc.cfm?/6qEBI1BFJKe66KY8vUn3g==">CNSS 4013</a></span> </br>
-                                    Risk Analyst, Entry Level - <span class="boldtext" style="font-weight: bold;"><a href="https://www.cnss.gov/CNSS/openDoc.cfm?Mw14oi1OLd6j54dlVIKvsA=="> CNSS 4016</a></span> </br>
-                                    Enterprise Information Security - <span class="boldtext" style="font-weight: bold;"><a href="https://misonline.eller.arizona.edu/certificates/enterprise-security"> Eller 2016 </a></span> </br>
-                                    <!--Certified Information Systems Security Professional - <span class="boldtext"> Associate CISSP</span> -->
+                                    Information Systems Security - <span class="boldtext" style="font-weight: bold;"> NSTISSI 4011</span> </br>
+                                    Senior Systems Manager - <span class="boldtext" style="font-weight: bold;"> CNSS 4012</span> </br>
+                                    System Administrator - <span class="boldtext" style="font-weight: bold;"> CNSS 4013</span> </br>
+                                    IBM Certified Associate System Administrator - Lotus Notes and Domino 8 - <span class="boldtext" style="font-weight: bold;"> SR8014959</span> </br>
+                                    AWS Certified Cloud Practitioner - <span class="boldtext" style="font-weight: bold;"> P6DXX9EKJ1BQQM3K</span> </br>
                                 </p>
                             </div>
                         </article>
