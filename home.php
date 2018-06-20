@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Read Only by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
--->
 <html>
 	<head>
 		<title>Dheeraj Gupta</title>
@@ -28,9 +23,7 @@
 				<header>
 					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
 					<h1 id="logo"><a href="#">Dheeraj Gupta</a></h1>
-					<p>Whatever you are,<br />
-					be a good one. <br />
-					- Abraham Lincoln</p>
+					<p>If not me, who? If not now, when?</p>
 				</header>
 				<nav id="nav">
 					<ul>
@@ -46,7 +39,7 @@
 				<footer>
 					<ul class="icons">
 						<li><a href="https://www.linkedin.com/in/flourinenash/" class="icon fa-linkedin"><span class="label">Twitter</span></a></li>
-						<li><a href="tel:520-661-7972" class="icon fa-phone"><span class="label">Phone</span></a></li>
+						<li><a href="tel:520-273-0365" class="icon fa-phone"><span class="label">Phone</span></a></li>
 						<li><a href="/downloads/Dheeraj_Gupta.vcf" style="border:0;"><img src="images/Asset_1.png" alt="vCard Download" class="nolinecard" style="border:0;"></a></li>
 						<li><a href="https://github.com/flourinenash/" class="icon fa-github"><span class="label">Github</span></a></li>
 						<li><a href="dheerajgupta@email.arizona.edu" class="icon fa-envelope"><span class="label">Email</span></a></li>
@@ -70,11 +63,10 @@
 									?>
 									<header class="major">
 										<h2>About Me</h2>
-										<p>I would best describe myself as...<br />
-										Motivated, Respectful, and Diligent.</p>
+										<p>Jack of Many Trades,<br />
+										 Master of Some...</p>
 									</header>
-									<p>I was born and raised in Tucson, Arizona with a wonderful family who as always supported my goals.  As a young child, I always strived to accomplish my goals and celebrate my successess. I learned from my mistakes and always asked myself the tough questions. 
-									I'm motivated by knowing regardless of what I do, my end results are always above my expectations.  I found that being diligent through time management and effective communication, i'm capable of achieving any task I set my mind to. 
+									<p>Dheeraj is a Technology Consultant in the Cloud Service Line based out of the Dallas-Ross, TX office. He is a well-traveled professional with over five years of experience in Android Software Design and Development, and Project Management. He is a former Lead Engineer from Samsung Research Institute in the Europe Strategic Platform R&D group (Phonebook & Messaging) and has exceptional problem-solving skills. He is proficient in CRM design and development, and API integration as a former Technical Program Manager at Catalyst Group. He is an ambitious entrepreneur with a strong affinity for the lean methodology. He graduated with a Master of Science in Management Information Systems from The Eller College of Management at The University of Arizona – one of the top-ranked programs in the US. He also holds a bachelor's degree in Computer Science and Engineering from NIT-H. He also contributed to the development of the Phonebook/Contacts application on all the Samsung Galaxy phones and tablets released between 2012 and 2016. 
 									</p>
 								</div>
 							</section>
@@ -82,7 +74,7 @@
 						<!-- Two -->
 							<section id="two">
 								<div class="container">
-									<h3>A Few Accomplishments</h3>
+									<h3>Education</h3>
 									<p>My educational accomplishments have been a result of hard work and many sleepless nights.  
 									I have been able to refine my time management skills to manage the many challenges of going to school full-time while working.  
 									The knowledge I have gained through these mediums has shaped my mind to always have a desire to learn.
@@ -289,7 +281,7 @@
 							<section id="five">
 								<div class="container">
 									<h3>Contact Me</h3>
-									<p>For a direct line of contact, please fill out your information below with any questions you may have.  I am also available via direct email at BrandonMikelaitis@gmail.com.  My typical response time is 1 business day.</p>
+									<p>For a direct line of contact, please fill out your information below with any questions you may have.  I am also available via direct email at dheerajgupta@email.arizona.edu.  My typical response time is 1 business day.</p>
 									
 									<p style="color:white; background-color:#db6a60; border-radius:25px; text-align:center;" id="demo"></p>
 									<?php if( $_GET['status'] == 'failed'):
@@ -332,11 +324,11 @@
 					<section id="footer">
 						<div class="container">
 							<ul class="copyright">
-								<li>&copy; Brandon Mikelaitis. All rights reserved.</li>
-									<li><a href="http://www.linkedin.com/in/brandon-mikelaitis" class="icon fa-linkedin"><span class="label">Twitter</span></a></li>
-						<li><a href="tel:520-661-7972" class="icon fa-phone"><span class="label">Phone</span></a></li>
-						<li><a href="http://github.com/bmikelaitis" class="icon fa-github"><span class="label">Github</span></a></li>
-						<li><a href="mailto:brandonmikelaitis@gmail.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
+								<li>&copy; Dheeraj Gupta. All rights reserved.</li>
+									<li><a href="https://www.linkedin.com/in/flourinenash/" class="icon fa-linkedin"><span class="label">Twitter</span></a></li>
+						<li><a href="tel:520-273-0365" class="icon fa-phone"><span class="label">Phone</span></a></li>
+						<li><a href="https://github.com/flourinenash/" class="icon fa-github"><span class="label">Github</span></a></li>
+						<li><a href="mailto:dheerajgupta@email.arizona.edu" class="icon fa-envelope"><span class="label">Email</span></a></li>
 							</ul>
 						</div>
 					</section>
