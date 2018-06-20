@@ -57,7 +57,7 @@
                 </li>
                 <li><a href="https://github.com/flourinenash/" class="icon fa-github"><span class="label">Github</span></a>
                 </li>
-                <li><a href="dheerajgupta@email.arizona.edu" class="icon fa-envelope"><span class="label">Email</span></a>
+                <li><a href="mailto:dheerajgupta@email.arizona.edu" class="icon fa-envelope"><span class="label">Email</span></a>
                 </li>
             </ul>
         </footer>
