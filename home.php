@@ -47,8 +47,8 @@
 					<ul class="icons">
 						<li><a href="https://www.linkedin.com/in/flourinenash/" class="icon fa-linkedin"><span class="label">Twitter</span></a></li>
 						<li><a href="tel:520-661-7972" class="icon fa-phone"><span class="label">Phone</span></a></li>
-						<li><a href="/downloads/Brandon_Mikelaitis.vcf" style="border:0;"><img src="images/Asset_1.png" alt="vCard Download" class="nolinecard" style="border:0;"></a></li>
-						<li><a href="http://github.com/bmikelaitis" class="icon fa-github"><span class="label">Github</span></a></li>
+						<li><a href="/downloads/Dheeraj_Gupta.vcf" style="border:0;"><img src="images/Asset_1.png" alt="vCard Download" class="nolinecard" style="border:0;"></a></li>
+						<li><a href="https://github.com/flourinenash/" class="icon fa-github"><span class="label">Github</span></a></li>
 						<li><a href="dheerajgupta@email.arizona.edu" class="icon fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 				</footer>
