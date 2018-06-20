@@ -81,7 +81,7 @@
                         <h2>About Me</h2>
                         <p>Jack of Many Trades,<br/> Master of Some...</p>
                     </header>
-                    <p>Dheeraj is a Technology Consultant in the Cloud Service Line based out of the Dallas-Ross, TX office. He is a well-traveled professional with over five years of experience in Android Software Design and Development, and Project Management. He is a former Lead Engineer from Samsung Research Institute in the Europe Strategic Platform R&D group (Phonebook & Messaging) and has exceptional problem-solving skills. He is proficient in CRM design and development, and API integration as a former Technical Program Manager at Catalyst Group. He is an ambitious entrepreneur with a strong affinity for the lean methodology. He graduated with a Master of Science in Management Information Systems from The Eller College of Management at The University of Arizona – one of the top-ranked programs in the US. He also holds a bachelor's degree in Computer Science and Engineering from NIT-H. He also contributed to the development of the Phonebook/Contacts application on all the Samsung Galaxy phones and tablets released between 2012 and 2016.
+                    <p>Dheeraj is a Technology Consultant in the Cloud Service Line based out of the Dallas-Ross, TX office. He is a well-traveled professional with over five years of experience in Android Software Design and Development, and Project Management. He is a former Lead Engineer from Samsung Research Institute in the Europe Strategic Platform R&D group (Phonebook & Messaging) and has exceptional problem-solving skills. He is proficient in CRM design and development, and API integration as a former Technical Program Manager at Catalyst Group. He is an ambitious entrepreneur with a strong affinity for the lean methodology. He also contributed to the development of the Phonebook/Contacts application on all the Samsung Galaxy phones and tablets released between 2012 and 2016.
                     </p>
                 </div>
             </section>
@@ -90,40 +90,20 @@
             <section id="two">
                 <div class="container">
                     <h3>Education</h3>
-                    <p>My educational accomplishments have been a result of hard work and many sleepless nights. I have been able to refine my time management skills to manage the many challenges of going to school full-time while working. The knowledge I have gained through these mediums has shaped my mind to always have a desire to learn.
-
-                    </p>
+                    <p>Dheeraj graduated with a Master of Science degree in Management Information Systems from The Eller College of Management at The University of Arizona – one of the top-ranked programs in the US. He also holds a bachelor's degree in Computer Science and Engineering from National Institute of Technology - Hamirpur.</p>
                     <div class="features">
                         <article>
                             <a href="#" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
                             <div class="inner">
-                                <h4 align="center">Master's of Science in Management Information Systems</h4>
-                                <h5 align="center"> Cyber Security Concentration </h5>
-                                <h5 align="center">GPA: 3.909 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2017</h5>
-                                <p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
-                                    &#8226;Dean’s List with Distinction</br>
-                                    <span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Clubs and Activities</span>
-                                    </br>
-                                    &#8226;MISGA </p>
+                                <h4 align="center">Master of Science in Management Information Systems</h4>
+                                <h5 align="center">GPA: 3.85 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated December 2017</h5>
                             </div>
                         </article>
                         <article>
 
                             <div class="inner">
-                                <h4 align="center">Bachelor's of Science in Business Administration</h4>
-                                <h5 align="center"> Management Information Systems </br>& Operations Management</h5>
-                                <h5 align="center">GPA: 3.89 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2016</h5>
-                                <p align="center"><span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Honors</span> </br>
-                                    &#8226;Magna Cum Laude</br>
-                                    &#8226;Dean’s List with Distinction</br>
-                                    &#8226;Henry Bobbe Scholarship</br>
-                                    &#8226;Bologna Scholarship</br>
-                                    <span style="font-weight: bold; font-decoration: underline; border-bottom: 1px solid #888;">Clubs and Activities</span>
-                                    </br>
-                                    &#8226;Zipperman Scholar </br>
-                                    &#8226;Kappa Sigma Fraternity (Founding Father)</br>
-                                    &#8226;MISA</br>
-                                </p>
+                                <h4 align="center">Bachelor of Technology in Computer Science and Engineering</h4>
+                                <h5 align="center">GPA: 3.88 &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Graduated May 2012</h5>
                             </div>
                             <a href="#" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
                         </article>
