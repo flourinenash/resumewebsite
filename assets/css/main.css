@@ -2003,7 +2003,7 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
 /* One */
 
 #one:before {
-	background-image: url("../../images/dallas.png");
+	background-image: url("../../images/dallas.jpg");
 	background-position: top right;
 	background-repeat: no-repeat;
 	background-size: cover;

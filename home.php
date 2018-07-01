@@ -130,7 +130,10 @@
             <section id="threepoint1">
                 <div class="container">
                     <h3>Professioal Experience</h3>
-                    <p>My experience ranges from academic research to technical internships where I was part of a cross-functional team that was responsible for improving customer experience. I’m currently entering the consulting industry upon graduation of my master degree. My drive for continual learning is never-ending and I'm always looking my next adventure. </p>
+                    
+                    <p>&#8226; Assisted the Professor in various tasks ranging from leading the class to developing in-class Activities.</br>
+                        &#8226; Teached lectures on Supply Chain Managment and JIT Processes.</br>
+                        &#8226; Other duties include tracking attendance and grade management.</p>
                     <div class="features">
                         <article>
                             <a href="#" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
