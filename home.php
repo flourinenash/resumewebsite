@@ -39,6 +39,8 @@
                 </li>
                 <li><a href="#threepoint2">Academic Experience</a>
                 </li>
+                <li><a href="#threepoint3">Publications</a>
+                </li>
                 <li><a href="#four">Skills</a>
                 </li>
                 <li><a href="#five">Contact</a>
@@ -131,9 +133,69 @@
                 <div class="container">
                     <h3>Professioal Experience</h3>
                     
-                    <p>&#8226; Assisted the Professor in various tasks ranging from leading the class to developing in-class Activities.</br>
+                    <p>&#8226; Technology Consultant at </br>
                         &#8226; Teached lectures on Supply Chain Managment and JIT Processes.</br>
                         &#8226; Other duties include tracking attendance and grade management.</p>
+                        <table style="width:100%">
+                          <tr>
+                            <th>Organization</th>
+                            <th>Role</th>
+                            <th>Start Date</th> 
+                            <th>End Date</th>
+                          </tr>
+                          
+                          <tr>
+                            <td>Deloitte Consulting LLP</td>
+                            <td>Consultant - Cloud Strategy</td> 
+                            <td>February, 2018</td>
+                            <td>Present</td>
+                          </tr>
+                          
+                           <tr>
+                            <td>Tech launch Arizona</td>
+                            <td>Consultant - Cloud Strategy</td> 
+                            <td>February, 2018</td>
+                            <td>February, 2018</td>
+                          </tr>
+                          
+                           <tr>
+                            <td>Catalyst Group</td>
+                            <td>Consultant - Cloud Strategy</td> 
+                            <td>February, 2018</td>
+                            <td>Present</td>
+                          </tr>
+                          
+                          <tr>
+                            <td>University of Arizona</td>
+                            <td>Consultant - Cloud Strategy</td> 
+                            <td>February, 2018</td>
+                            <td>Present</td>
+                          </tr>
+                          
+                           <tr>
+                            <td>Samsung Research Institute</td>
+                            <td>Consultant - Cloud Strategy</td> 
+                            <td>February, 2018</td>
+                            <td>Present</td>
+                          </tr>
+                          
+                           <tr>
+                            <td>Samsung Research Institute</td>
+                            <td>Consultant - Cloud Strategy</td> 
+                            <td>February, 2018</td>
+                            <td>Present</td>
+                          </tr>
+                          
+                          <tr>
+                            <td>Samsung Research Institute</td>
+                            <td>Consultant - Cloud Strategy</td> 
+                            <td>February, 2018</td>
+                            <td>Present</td>
+                          </tr>
+                          
+                        </table>
+                        <p>  </br> </p>
+                        <p>  </br> </p>  
                     <div class="features">
                         <article>
                             <a href="#" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
@@ -267,6 +329,23 @@
                                 <a href="#" class="image apple"><img src="images/Apple-logo.png" alt="Apple Inc." align="center"/></a>
                             </article>
                     </div>
+                </div>
+            </section>
+
+            <!-- threepoint3 -->
+            <section id="threepoint3">
+                <div class="container">
+                    <h3>Publications</h3>
+                    <p>These are just some of the things I have learned through my work and educational experience. For more details, please download my resume or contact me.</p>
+                    <ul class="feature-icons">
+                        <li class="fa-code">Java, Ruby, Python, SQL, & VBA</li>
+                        <li class="fa-database">Oracle DB, SQLite, & Access</li>
+                        <li class="fa-laptop">Windows, Mac OS, & Some Linux</li>
+                        <li class="fa-file-pdf-o">Adobe Creative Cloud Apps</li>
+                        <li class="fa-html5">HTML5, CSS, & Ruby on Rails</li>
+                        <li class="fa-cloud">SSH & FTP Clients</li>
+                        <li class="fa-android">SSH & FTP Clients</li>
+                    </ul>
                 </div>
             </section>
 
