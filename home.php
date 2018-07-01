@@ -132,70 +132,74 @@
             <section id="threepoint1">
                 <div class="container">
                     <h3>Professioal Experience</h3>
-                    
+
                     <p>&#8226; Technology Consultant at </br>
                         &#8226; Teached lectures on Supply Chain Managment and JIT Processes.</br>
                         &#8226; Other duties include tracking attendance and grade management.</p>
-                        <table style="width:100%">
-                          <tr>
+                    <table style="width:100%">
+                        <tr>
                             <th>Organization</th>
                             <th>Role</th>
-                            <th>Start Date</th> 
+                            <th>Start Date</th>
                             <th>End Date</th>
-                          </tr>
-                          
-                          <tr>
+                        </tr>
+
+                        <tr>
                             <td>Deloitte Consulting LLP</td>
-                            <td>Consultant - Cloud Strategy</td> 
+                            <td>Consultant - Cloud Strategy</td>
                             <td>February, 2018</td>
                             <td>Present</td>
-                          </tr>
-                          
-                           <tr>
+                        </tr>
+
+                        <tr>
                             <td>Tech launch Arizona</td>
-                            <td>Consultant - Cloud Strategy</td> 
+                            <td>Consultant - Cloud Strategy</td>
                             <td>February, 2018</td>
                             <td>February, 2018</td>
-                          </tr>
-                          
-                           <tr>
+                        </tr>
+
+                        <tr>
                             <td>Catalyst Group</td>
-                            <td>Consultant - Cloud Strategy</td> 
+                            <td>Consultant - Cloud Strategy</td>
                             <td>February, 2018</td>
                             <td>Present</td>
-                          </tr>
-                          
-                          <tr>
+                        </tr>
+
+                        <tr>
                             <td>University of Arizona</td>
-                            <td>Consultant - Cloud Strategy</td> 
+                            <td>Consultant - Cloud Strategy</td>
                             <td>February, 2018</td>
                             <td>Present</td>
-                          </tr>
-                          
-                           <tr>
+                        </tr>
+
+                        <tr>
                             <td>Samsung Research Institute</td>
-                            <td>Consultant - Cloud Strategy</td> 
+                            <td>Consultant - Cloud Strategy</td>
                             <td>February, 2018</td>
                             <td>Present</td>
-                          </tr>
-                          
-                           <tr>
+                        </tr>
+
+                        <tr>
                             <td>Samsung Research Institute</td>
-                            <td>Consultant - Cloud Strategy</td> 
+                            <td>Consultant - Cloud Strategy</td>
                             <td>February, 2018</td>
                             <td>Present</td>
-                          </tr>
-                          
-                          <tr>
+                        </tr>
+
+                        <tr>
                             <td>Samsung Research Institute</td>
-                            <td>Consultant - Cloud Strategy</td> 
+                            <td>Consultant - Cloud Strategy</td>
                             <td>February, 2018</td>
                             <td>Present</td>
-                          </tr>
-                          
-                        </table>
-                        <p>  </br> </p>
-                        <p>  </br> </p>  
+                        </tr>
+
+                    </table>
+                    <p>
+                        </br>
+                    </p>
+                    <p>
+                        </br>
+                    </p>
                     <div class="features">
                         <article>
                             <a href="#" class="image"><img src="images/focal-point-large-text.png" alt="Focal Point" /></a>
