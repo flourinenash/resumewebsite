@@ -140,53 +140,53 @@
                         <tr>
                             <td>Deloitte Consulting LLP</td>
                             <td>Consultant - Cloud Strategy</td>
-                            <td>Feb, 2018</td>
+                            <td>Feb 2018</td>
                             <td>Present</td>
                         </tr>
 
                         <tr>
                             <td>Tech launch Arizona</td>
                             <td>NSF I-Corp Entrepreneur</td>
-                            <td>Aug, 2017</td>
-                            <td>Dec, 2017</td>
+                            <td>Aug 2017</td>
+                            <td>Dec 2017</td>
                         </tr>
 
                         <tr>
                             <td>Catalyst Group</td>
                             <td>Technical Program Manager</td>
-                            <td>May, 2017</td>
-                            <td>Dec, 2017</td>
+                            <td>May 2017</td>
+                            <td>Dec 2017</td>
                         </tr>
 
                         <tr>
                             <td>University of Arizona</td>
                             <td>Teaching Assistant - Project Management</td>
-                            <td>Jan, 2017</td>
-                            <td>May, 2017</td>
+                            <td>Jan 2017</td>
+                            <td>May 2017</td>
                         </tr>
                         <tr>
                             <td>TEDxTucson</td>
                             <td>Business Intelligence Analyst</td>
-                            <td>Jan, 2017</td>
-                            <td>May, 2017</td>
+                            <td>Jan 2017</td>
+                            <td>May 2017</td>
                         </tr>
                         <tr>
                             <td>Samsung Research Institute</td>
                             <td>Lead Engineer</td>
-                            <td>Mar, 2016</td>
-                            <td>Jul, 2016</td>
+                            <td>Mar 2016</td>
+                            <td>Jul 2016</td>
                         </tr>
                         <tr>
                             <td>Samsung Research Institute</td>
                             <td>Engineer</td>
-                            <td>Jun, 2012</td>
-                            <td>Mar, 2016</td>
+                            <td>Jun 2012</td>
+                            <td>Mar 2016</td>
                         </tr>
                         <tr>
                             <td>Samsung Software Engineering Lab</td>
                             <td>Intern</td>
-                            <td>Jun, 2011</td>
-                            <td>Dec, 2011</td>
+                            <td>Jun 2011</td>
+                            <td>Dec 2011</td>
                         </tr>
                     </table>
                     <p>
