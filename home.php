@@ -21,8 +21,6 @@
 </head>
 
 <body>
-
-    <!-- Header -->
     <section id="header">
         <header>
             <span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
@@ -35,15 +33,15 @@
                 </li>
                 <li><a href="#two">Education</a>
                 </li>
-                <li><a href="#threepoint1">Professional Experience</a>
+                <li><a href="#three">Professional Experience</a>
                 </li>
-                <li><a href="#threepoint2">Academic Experience</a>
+                <li><a href="#four">Academic Experience</a>
                 </li>
-                <li><a href="#threepoint3">Publications</a>
+                <li><a href="#five">Research Publications</a>
                 </li>
-                <li><a href="#four">Skills</a>
+                <li><a href="#six">Skills</a>
                 </li>
-                <li><a href="#five">Contact</a>
+                <li><a href="#seven">Contact</a>
                 </li>
                 <li><a href="/downloads/Dheeraj_Gupta.pdf" target="_blank">Download Resume</a>
                 </li>
@@ -83,7 +81,7 @@
                         <h2>About Me</h2>
                         <p>Jack of Many Trades,<br/> Master of Some...</p>
                     </header>
-                    <p>Dheeraj is a Technology Consultant in Deloitte Consulting LLP in the Cloud Engineering Service Line based out of the Dallas, Texas office. He is a well-traveled professional with over five years of experience in Android Software Design and Development, and Project Management. He is a former Lead Engineer from Samsung Research Institute in the Europe Strategic Platform R&D group (Phonebook & Messaging) and has exceptional problem-solving skills. He is proficient in CRM design and development, and API integration as a former Technical Program Manager at Catalyst Group. He is an ambitious entrepreneur with a strong affinity for the lean methodology. He also contributed to the development of the Phonebook/Contacts application on all the Samsung Galaxy phones and tablets released between 2012 and 2016.
+                    <p>Dheeraj is a Technology Consultant in Deloitte Consulting LLP in the Cloud Engineering Service Line based out of the Dallas, Texas office. He is a well-traveled professional with over five years of experience in Android Software Design and Development, and Project Management. He is a former Lead Engineer from Samsung Research Institute in the Europe Strategic Platform Research and Development group (Phonebook and Messaging) and has exceptional problem-solving skills. He is proficient in CRM design and development, and API integration as a former Technical Program Manager at Catalyst Group. He is an ambitious entrepreneur with a strong affinity for the lean methodology. He also contributed to the development of the Phonebook/Contacts application on all the Samsung Galaxy phones and tablets released between 2012 and 2016.
                     </p>
                 </div>
             </section>
@@ -128,8 +126,7 @@
                 </div>
             </section>
 
-            <!-- threepoint1 -->
-            <section id="threepoint1">
+            <section id="three">
                 <div class="container">
                     <h3>Professioal Experience</h3>
 
@@ -265,9 +262,7 @@
                 </div>
             </section>
 
-
-            <!-- threepoint2 -->
-            <section id="threepoint2">
+            <section id="four">
                 <div class="container">
                     <h3>Academic Experience</h3>
                     <p>My experience ranges from academic research to technical internships where I was part of a cross-functional team that was responsible for improving customer experience. I’m currently entering the consulting industry upon graduation of my master degree. My drive for continual learning is never-ending and I'm always looking my next adventure. </p>
@@ -336,10 +331,9 @@
                 </div>
             </section>
 
-            <!-- threepoint3 -->
-            <section id="threepoint3">
+            <section id="five">
                 <div class="container">
-                    <h3>Publications</h3>
+                    <h3>Research Publications</h3>
                     <p>These are just some of the things I have learned through my work and educational experience. For more details, please download my resume or contact me.</p>
                     <ul class="feature-icons">
                         <li class="fa-code">Java, Ruby, Python, SQL, & VBA</li>
@@ -353,8 +347,7 @@
                 </div>
             </section>
 
-            <!-- four -->
-            <section id="four">
+            <section id="six">
                 <div class="container">
                     <h3>Things I Can Do</h3>
                     <p>These are just some of the things I have learned through my work and educational experience. For more details, please download my resume or contact me.</p>
@@ -370,8 +363,7 @@
                 </div>
             </section>
 
-            <!-- five -->
-            <section id="five">
+            <section id="seven">
                 <div class="container">
                     <h3>Contact Me</h3>
                     <p>For a direct line of contact, please fill out your information below with any questions you may have. I am also available via direct email at dheerajgupta@email.arizona.edu. My typical response time is 1 business day.</p>
@@ -439,7 +431,6 @@
 
     </div>
 
-    <!-- Scripts -->
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/jquery.scrollzer.min.js"></script>
     <script src="assets/js/jquery.scrolly.min.js"></script>
