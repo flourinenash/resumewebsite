@@ -163,8 +163,8 @@
                         </tr>
 
                         <tr>
-                            <td>University of Arizona</td>
-                            <td>Teaching Assistant - Project Management</td>
+                            <td>University of Arizona, Eller College of Management</td>
+                            <td>Graduate Teaching Assistant - Project Management</td>
                             <td>January, 2017</td>
                             <td>May, 2017</td>
                         </tr>
