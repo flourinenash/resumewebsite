@@ -129,10 +129,6 @@
             <section id="three">
                 <div class="container">
                     <h3>Professioal Experience</h3>
-
-                    <p>&#8226; Technology Consultant at </br>
-                        &#8226; Teached lectures on Supply Chain Managment and JIT Processes.</br>
-                        &#8226; Other duties include tracking attendance and grade management.</p>
                     <table style="width:100%">
                         <tr>
                             <th>Organization</th>
@@ -178,13 +174,13 @@
                             <td>Samsung Research Institute</td>
                             <td>Lead Engineer</td>
                             <td>March, 2016</td>
-                            <td>July 2016</td>
+                            <td>July, 2016</td>
                         </tr>
                         <tr>
                             <td>Samsung Research Institute</td>
                             <td>Engineer</td>
                             <td>June, 2012</td>
-                            <td>March 2016</td>
+                            <td>March, 2016</td>
                         </tr>
                         <tr>
                             <td>Samsung Software Engineering Lab</td>
@@ -193,9 +189,6 @@
                             <td>December, 2011</td>
                         </tr>
                     </table>
-                    <p>
-                        </br>
-                    </p>
                     <p>
                         </br>
                     </p>
@@ -277,57 +270,56 @@
                             </div>
                         </article>
                         <article>
-                            <article>
-                                <div class="inner">
-                                    <h4 align="center">Graduate Teaching Assistant</h4>
-                                    <h5 align="center"> August 2016 - May 2017  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
-                                    <p>&#8226; Assisted the Professor in various tasks ranging from leading the class to developing in-class Activities.</br>
-                                        &#8226; Teached lectures on Supply Chain Managment and JIT Processes.</br>
-                                        &#8226; Other duties include tracking attendance and grade management.</p>
-                                </div>
-                                <a href="#" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
-                            </article>
-                            <article>
-                                <a href="#" class="image"><img src="images/a-logo.png" alt="Eller College of Management" /></a>
-                                <div class="inner">
-                                    <h4 align="center">Graduate Research Assistant</h4>
-                                    <h5 align="center"> August 2016 - May 2017  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
-                                    <p>&#8226; Assisted Researchers in specialized Projects and Experiments for the U.S. Borders Project.</br>
-                                        &#8226; Collaborated in team meetings to give insights for research data goals.</p>
-                                </div>
-                            </article>
-                            <article>
-                                <div class="inner">
-                                    <h4 align="center">Information Technology Intern </h4>
-                                    <h5 align="center"> June 2016 - August 2016  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Las Vegas, NV</h5>
-                                    <p>&#8226; Assessed different transition methods for Shifting Back-end system towards a Micro Service Architecture. </br>
-                                        &#8226; Shared information about Pro’s and Con’s for architecture transition methods.</br>
-                                        &#8226; Interacted with cross functional teams and upper management to develop a strategic outlook.</p>
-                                </div>
-                                <a href="#" class="image"><img src="images/MGM-logo.png" alt="MGM Resorts International" /></a>
-                            </article>
-                            <article>
-                                <a href="#" class="image"><img src="images/a-logo.png" alt="Eller College of Management" /></a>
-                                <div class="inner">
-                                    <h4 align="center">Senior Research Assistant</h4>
-                                    <h5 align="center"> May 2012 - May 2016  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
-                                    <p>&#8226; Code and Evaluate videos for Data using Interact Behavioral Tools.</br>
-                                        &#8226; Design and Write Macros to Segment Data for Analysis.</br>
-                                        &#8226; Assist Researchers in Specialize Projects and Experiments for the U.S. Borders Project.</br>
-                                        &#8226; Collaborate with Researchers in the Center for the Management of Information.</br>
-                                        &#8226; Trained and Mentored New Research Assistants.</p>
-                                </div>
-                            </article>
-                            <article>
-                                <div class="inner">
-                                    <h4 align="center">Apple At-Home Advisor</h4>
-                                    <h5 align="center"> January 2014 - September 2014  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
-                                    <p>&#8226; Analyze Technical Issues by Communicating with Customers over the Phone and Chat.</br>
-                                        &#8226; Collaborated Collectively amongst the AppleCare team to Resolve Emerging Issues. </br>
-                                        &#8226; Assist in the Training and Support of New Team Members. Met and Exceeded Company Metrics and Productivity Goals.</p>
-                                </div>
-                                <a href="#" class="image apple"><img src="images/Apple-logo.png" alt="Apple Inc." align="center"/></a>
-                            </article>
+                            <div class="inner">
+                                <h4 align="center">Graduate Teaching Assistant</h4>
+                                <h5 align="center"> August 2016 - May 2017  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
+                                <p>&#8226; Assisted the Professor in various tasks ranging from leading the class to developing in-class Activities.</br>
+                                    &#8226; Teached lectures on Supply Chain Managment and JIT Processes.</br>
+                                    &#8226; Other duties include tracking attendance and grade management.</p>
+                            </div>
+                            <a href="#" class="image"><img src="images/ua_horiz_rgb.png" alt="The University of Arizona" /></a>
+                        </article>
+                        <article>
+                            <a href="#" class="image"><img src="images/a-logo.png" alt="Eller College of Management" /></a>
+                            <div class="inner">
+                                <h4 align="center">Graduate Research Assistant</h4>
+                                <h5 align="center"> August 2016 - May 2017  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
+                                <p>&#8226; Assisted Researchers in specialized Projects and Experiments for the U.S. Borders Project.</br>
+                                    &#8226; Collaborated in team meetings to give insights for research data goals.</p>
+                            </div>
+                        </article>
+                        <article>
+                            <div class="inner">
+                                <h4 align="center">Information Technology Intern </h4>
+                                <h5 align="center"> June 2016 - August 2016  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Las Vegas, NV</h5>
+                                <p>&#8226; Assessed different transition methods for Shifting Back-end system towards a Micro Service Architecture. </br>
+                                    &#8226; Shared information about Pro’s and Con’s for architecture transition methods.</br>
+                                    &#8226; Interacted with cross functional teams and upper management to develop a strategic outlook.</p>
+                            </div>
+                            <a href="#" class="image"><img src="images/MGM-logo.png" alt="MGM Resorts International" /></a>
+                        </article>
+                        <article>
+                            <a href="#" class="image"><img src="images/a-logo.png" alt="Eller College of Management" /></a>
+                            <div class="inner">
+                                <h4 align="center">Senior Research Assistant</h4>
+                                <h5 align="center"> May 2012 - May 2016  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
+                                <p>&#8226; Code and Evaluate videos for Data using Interact Behavioral Tools.</br>
+                                    &#8226; Design and Write Macros to Segment Data for Analysis.</br>
+                                    &#8226; Assist Researchers in Specialize Projects and Experiments for the U.S. Borders Project.</br>
+                                    &#8226; Collaborate with Researchers in the Center for the Management of Information.</br>
+                                    &#8226; Trained and Mentored New Research Assistants.</p>
+                            </div>
+                        </article>
+                        <article>
+                            <div class="inner">
+                                <h4 align="center">Apple At-Home Advisor</h4>
+                                <h5 align="center"> January 2014 - September 2014  &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;Tucson, AZ</h5>
+                                <p>&#8226; Analyze Technical Issues by Communicating with Customers over the Phone and Chat.</br>
+                                    &#8226; Collaborated Collectively amongst the AppleCare team to Resolve Emerging Issues. </br>
+                                    &#8226; Assist in the Training and Support of New Team Members. Met and Exceeded Company Metrics and Productivity Goals.</p>
+                            </div>
+                            <a href="#" class="image apple"><img src="images/Apple-logo.png" alt="Apple Inc." align="center"/></a>
+                        </article>
                     </div>
                 </div>
             </section>
